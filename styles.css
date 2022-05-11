@@ -1,0 +1,93 @@
+.title2 {
+    border-left: 5px solid black;
+    padding-left: 5px;
+}
+
+.italyc {
+    font-style: italic;
+    opacity: 0.8;
+    margin-top: -1%;
+}
+
+.imgstyle {
+    float: right;
+    margin-right: 3%;
+    margin-bottom: 1%;
+    border-radius: 20px;
+    box-shadow: 2px 2px;
+}
+
+.bullets {
+    list-style-type:  square;
+}
+
+.fa{
+    padding: 0.05%;
+    font-size: 2%;
+    width: 0.7%;
+    text-align: center;
+    margin: 0.5% 0.5%;
+}
+
+.fa-facebook{
+    background: rgb(61, 61, 126);
+    color: black;
+}
+
+.fa-instagram{
+    background: rgb(61, 61, 126);
+    color: black;
+}
+
+.fa-linkedin{
+    background: rgb(61, 61, 126);
+    color: black;
+}
+
+.fa-envelope{
+    background: rgba(0, 0, 255, 0);
+    color: black;
+}
+
+.title1 {
+    text-align: center;
+}
+
+.fa-phone {
+    background: rgb(61, 61, 126);
+    color: black;
+}
+
+.table {
+    padding: 0.01%;
+    border: 2px solid;
+    text-align: center;
+    width: 50%;
+}
+
+.border {
+    border: 1px solid;
+}
+
+.border2 {
+    border-top: 1px solid;
+    border-bottom: 1px solid;
+    padding-top: 1%;
+    padding-bottom: 1%;
+}
+.margin{
+    margin-left: 3.5%;
+    margin-right: 3%;
+    background-color: lightgray;
+}
+
+.color {
+    background-color: rgb(61, 61, 126);
+    margin-bottom: -1.4%;
+    margin-left: 3.5%;
+    margin-right: 3%;
+}
+
+.color2 {
+    background-color: lightgray;
+}
